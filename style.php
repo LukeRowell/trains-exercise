@@ -15,7 +15,7 @@ th
 {
     font-family: <?=$font_family?>;
     font-size: <?=$font_size?>;
-    background: #666;
+    background: #6D6D6D;
     color: #FFF;
     padding: 2px 6px;
     border-collapse: separate;
